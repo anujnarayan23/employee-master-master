@@ -4,4 +4,4 @@ applications:
   memory: 1024M
   instances: 1
   random-route: true
-  path: employee-master/target/employee-service-0.0.1-SNAPSHOT.war
+  path: employee-master/employee-services/target/employee-service-0.0.1-SNAPSHOT.war
