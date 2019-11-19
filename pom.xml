@@ -28,7 +28,7 @@
 	</properties>
 	
 	<modules>
-	<module>employee-master</module>
+	<module>employee-service</module>
 	</modules>
 	
 	</project>
