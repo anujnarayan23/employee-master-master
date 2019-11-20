@@ -29,6 +29,7 @@
 	
 	<modules>
 	<module>employee-master</module>
+	<module>common-components</module>
 	</modules>
 	
 	<dependencies>
